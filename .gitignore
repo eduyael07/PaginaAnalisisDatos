@@ -1,0 +1,39 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales
+ia/
+.venv/
+venv/
+
+
+# Archivos temporales y de logs
+*.log
+*.tmp
+*.swp
+
+# Archivos compilados (C/C++)
+*.o
+*.out
+*.exe
+
+# Entornos virtuales (Python)
+.venv/
+env/
+__pycache__/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos personales
+*.bak
+*.old
+node_modules/
+.env
